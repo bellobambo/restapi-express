@@ -29,6 +29,8 @@ const getSingleProducts = async (req, res) => {
 }
 
 
+
+
 // Create new Product
 
 const createProducts = async (req, res) => {
